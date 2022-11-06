@@ -14,7 +14,7 @@ namespace TR_Group.Model.CommonModels
 
         //}
 
-        //public string Version { get; set; }
+        public string Version { get; set; }
         public int StatusCode { get; set; }
         public string IsSuccess { get; set; }
         public string ErrorMessage { get; set; }
