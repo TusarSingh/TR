@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TR_Group.Repository/1.0.0": {
+        "runtime": {
+          "TR_Group.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TR_Group.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

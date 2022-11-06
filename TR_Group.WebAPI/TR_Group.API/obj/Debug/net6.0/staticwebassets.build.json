@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "otGJbe/Mg79WSTNl/S9mN1q0ZLBzLPlS4V2kWbjNmNg=",
+  "Source": "TR_Group.API",
+  "BasePath": "_content/TR_Group.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TR_Group.API\\wwwroot",
+      "Source": "TR_Group.API",
+      "ContentRoot": "E:\\WebApi_Practice_Project_Dot_Net_Core_And_Higher_Versions\\TR_Group.WebAPI\\TR_Group.API\\wwwroot\\",
+      "BasePath": "_content/TR_Group.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
